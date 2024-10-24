@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\glend\\source\\repos\\WebAPIREST\\WebAPIREST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7F1272-D74D-4689-B631-AD241C5F8E09}|WebAPIREST\\WebAPIREST.csproj|c:\\users\\glend\\source\\repos\\webapirest\\webapirest\\webapirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7F1272-D74D-4689-B631-AD241C5F8E09}|WebAPIREST\\WebAPIREST.csproj|solutionrelative:webapirest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7F1272-D74D-4689-B631-AD241C5F8E09}|WebAPIREST\\WebAPIREST.csproj|c:\\users\\glend\\source\\repos\\webapirest\\webapirest\\webapirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF7F1272-D74D-4689-B631-AD241C5F8E09}|WebAPIREST\\WebAPIREST.csproj|solutionrelative:webapirest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7F1272-D74D-4689-B631-AD241C5F8E09}|WebAPIREST\\WebAPIREST.csproj|c:\\users\\glend\\source\\repos\\webapirest\\webapirest\\webapirest\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7F1272-D74D-4689-B631-AD241C5F8E09}|WebAPIREST\\WebAPIREST.csproj|solutionrelative:webapirest\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\glend\\source\\repos\\WebAPIREST\\WebAPIREST\\WebAPIREST\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIREST\\appsettings.json",
+              "ToolTip": "C:\\Users\\glend\\source\\repos\\WebAPIREST\\WebAPIREST\\WebAPIREST\\appsettings.json",
+              "RelativeToolTip": "WebAPIREST\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T22:02:27.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\glend\\source\\repos\\WebAPIREST\\WebAPIREST\\WebAPIREST\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIREST\\Program.cs",
+              "ToolTip": "C:\\Users\\glend\\source\\repos\\WebAPIREST\\WebAPIREST\\WebAPIREST\\Program.cs",
+              "RelativeToolTip": "WebAPIREST\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:02:19.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\glend\\source\\repos\\WebAPIREST\\WebAPIREST\\WebAPIREST\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebAPIREST\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\glend\\source\\repos\\WebAPIREST\\WebAPIREST\\WebAPIREST\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebAPIREST\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:01:08.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

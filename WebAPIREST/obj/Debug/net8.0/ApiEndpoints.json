@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "WebAPIREST.Controllers.UsuarioController",
+    "Method": "Post",
+    "RelativePath": "Usuario/Add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "WebAPIREST.Models.UsuarioModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIREST.Controllers.UsuarioController",
+    "Method": "Delete",
+    "RelativePath": "Usuario/Delete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIREST.Controllers.UsuarioController",
+    "Method": "Get",
+    "RelativePath": "Usuario/List",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIREST.Controllers.UsuarioController",
+    "Method": "Login",
+    "RelativePath": "Usuario/Login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "WebAPIREST.Models.UsuarioLoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIREST.Controllers.UsuarioController",
+    "Method": "Put",
+    "RelativePath": "Usuario/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "WebAPIREST.Models.UsuarioModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
